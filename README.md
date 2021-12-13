@@ -14,7 +14,7 @@ Install the below tools/packages
 ### Setup Instructions
 
 #### System setup
-1. Clone the repo with `git clone https://github.com/Navtej01/Navtej01-RN_Redux_Saga.git` command
+1. Clone the repo with `git clone https://github.com/Navtej01/rn_MoviesTask.git` command
 2. Switch to the project's root directory in terminal
 3. Install the dependencies by running `npm install`
 4.  Once, 'npm install' Switch to ios directory in the terminal and run `pod install`
